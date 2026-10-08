@@ -1,0 +1,4 @@
+   vit_recovery.db
+   .secret_key
+   .ipynb_checkpoints/
+   __pycache__/
