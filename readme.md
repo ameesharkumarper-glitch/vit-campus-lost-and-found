@@ -44,7 +44,7 @@ __pycache__/
 
 ## Local setup
 
-**Requirements:** Python 3.10 to 3.12, `pip`, and a modern browser.
+**Requirements:** Python 3.10 or newer (tested on 3.14 without Tensorflow), `pip`, and a modern browser.
 
 ```bash
 git clone <your-repo-url>
