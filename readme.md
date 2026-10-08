@@ -66,7 +66,7 @@ jupyter notebook vit_campus_recovery.ipynb
 
 1. Choose **Run → Run All Cells**.
 2. The database is bootstrapped automatically (cell 3).
-3. The self-test cell prints `ALL TESTS PASSED ✅`.
+3. The self-test cell prints `ALL TESTS PASSED `.
 4. The final cell starts the server. Open **http://127.0.0.1:5000**.
 5. To stop it, run `stop_server()` in a new cell. To use another port, call `start_server(port=8000)`.
 
