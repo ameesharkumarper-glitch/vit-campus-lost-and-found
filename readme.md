@@ -1,4 +1,4 @@
-# 🎒 VIT Campus Lost & Found
+#  VIT Campus Lost & Found
 
 A privacy-first recovery platform for the VIT community that replaces messy WhatsApp groups.
 Students report lost/found items at official campus venues, owners prove ownership through a **private claim-check**, and returns are coordinated through an **in-app thread**, with no phone numbers exposed anywhere.
